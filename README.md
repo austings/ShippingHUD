@@ -5,8 +5,10 @@ A countdown on the homepage reminds them of how much more time they have to ship
 
 ![alt tag](https://github.com/austings/ShippingHUD/blob/master/imgs/prev1.png)
 
+------------------------------------------------------------------
 
 ![alt tag](https://github.com/austings/ShippingHUD/blob/master/imgs/prev2.png)
 
+------------------------------------------------------------------
 
 ![alt tag](https://github.com/austings/ShippingHUD/blob/master/imgs/prev3.png)
